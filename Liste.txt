@@ -1,0 +1,34 @@
+Liste:
+Die Liste gehört zu den Dynamischen Datenstrukturen. 
+
+Sie besteht aus einzelnen "Knoten", diese "Knoten" bestehen aus Daten und einen Zeiger.
+Der Zeiger zeigt auf das nächste Element in der Liste.
+	Sie heißen auch Verkettete Listen
+
+Funktionen
+	-Einfügen
+	-Suchen
+	-Löschen
+
+Vorteile:
+	Die Größe muss nicht bekannt sein
+
+Es gibt mehrere verkettete Listen
+	-die einfach verketete Liste
+	-die doppelt verketete Liste
+	-die kreisförmige verketete Liste
+
+Einfach verkettete Listen können Lehr sein
+Sie bestehen aus:
+	-einen Anker (Start Zeiger)
+	-eine oder mehrere Knoten (Kennen nur Ihren Nachfolger)
+	-Letztes Element zeigt auf NULL	
+
+
+	
+Doppelt verkettete Listen hat besitzt jedes Element 2 Zeiger
+	Ein Zeiger zeigt auf den Nachfolger, der andere auf den Vorgänger
+	Sind keine Knoten auf der man Zeigen kann vorhanden wird auf Null gezeigt
+
+Bei Kreisförmige Zeigt das letzte Element auf das erste Element.
+

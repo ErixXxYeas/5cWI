@@ -1,0 +1,6 @@
+Stack ist ähnlich wie Warteschlange, nur funktiuoniert er nach dem Last in First out prinzip.
+Man kann nur das Element ganz oben herausnehmen. WIll man eines weiter unter herausnehmen, 
+muss man alle davor herausnehmen.
+
+Es gibt die Operationen: Push (hineinlegen) Pull (herausnehmen) und Peek(nur anschouen).
+Diese Operationen sind nur für das oberste Element möglich

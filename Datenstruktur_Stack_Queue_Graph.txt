@@ -1,0 +1,58 @@
+DATENSTRUKTUREN:
+
+Datenstrukturen sind dazu da Daten oder auch Informationen im Speicher zu
+verwalten und zu organisieren.
+
+Funktionen: Hinzufügen, Löschen und Suchen
+
+Wir unterscheiden 2 Arten: Statische und Dynamische Datenstrukturen
+
+Beispiele für Statische: 
+Datentypen, Arrays, Records
+	
+	Größe wird zu Beginn festgelegt
+	Größ nicht veränderbar
+	mehr Speichern -> neue Struktur anlegen
+
+Beispiele Dynamische Datenstrukturen:
+Listen, Schlangen, Stapel
+
+	Größe während Laufzeit festgelegt
+	flexibel veränderbar
+
+
+STACK:
+	
+Stack ist ähnlich wie Warteschlange, nur funktiuoniert er nach dem Last in First out prinzip.
+Man kann nur das Element ganz oben herausnehmen. WIll man eines weiter unter herausnehmen, 
+muss man alle davor herausnehmen.
+
+Es gibt die Operationen: Push (hineinlegen) Pull (herausnehmen) und Peek(nur anschouen).
+Diese Operationen sind nur für das oberste Element möglich
+
+
+QUEUES:
+
+spezielle form der Liste
+dynamische Datenstruktur
+Zwischenspeicherung von Objekten (beliebige Daten)
+
+enqueue = Am Anfang der Liste kommen Daten hinzu
+dequeue = Am Ende der Liste werden gleichviel Daten entfernt, wie am Anfang hinzugefügt werden
+
+geht nach First in First out Prinzip
+
+Dient auch als Zwischenspeicher z.B. bei Tastatur gibt es ein Buffer (ADD-RELEASE-FETCH)
+
+
+GRAPH:
+
+Graphen können Knoten und Kanten haben
+
+gerichteter Graph = Kante geht nur in eine Richtung, zwei Kanten bedeuten "Stark verbunden"
+ungerichteter Graph = Kante kann in beide Richtungen verlaufen
+
+Grad ist immer wie viele Kanten an einem Knoten anliegen, also zwei Kanten = Grad: 2
+Eingangsgrad = wie viele Kanten auf den Knoten zeigen
+Ausgangsgrad = wie viele Kanten vom Knoten weg gehen
+

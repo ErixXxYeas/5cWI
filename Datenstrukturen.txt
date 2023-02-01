@@ -1,0 +1,23 @@
+Datenstrukturen sind dazu da Daten oder auch Informationen im Speicher zu
+verwalten und zu organisieren.
+
+Funktionen: Hinzufügen, Löschen und Suchen
+
+Wir unterscheiden 2 Arten: Statische und Dynamische Datenstrukturen
+
+Beispiele für Statische: 
+Datentypen, Arrays, Records
+	
+	Größe wird zu Beginn festgelegt
+	Größ nicht veränderbar
+	mehr Speichern -> neue Struktur anlegen
+
+Beispiele Dynamische Datenstrukturen:
+Listen, Schlangen, Stapel
+
+	Größe während Laufzeit festgelegt
+	flexibel veränderbar
+	
+
+
+

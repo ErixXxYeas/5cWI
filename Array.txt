@@ -1,0 +1,15 @@
+Array (Objekt):
+ - statische Datenstruktur (festes Speicherschema)
+ - speichern mehrere Informationen des gleichen Typs (z.B nur int)
+ - zwei Typen:
+	- Standard Array
+		- speichert Werte des gleichen Typs
+		- numerische Indizes zeigen auf Werte (z.B. Zelle 4, Index 3)
+		- Array (Objekt) nimmt besetzt Teil des Speichers -> Speicherbereich des Array -> Unterteilung in seine Felder
+			- Eindimensionales Array:
+				- Element des Arrays ein Typ
+			- Zweidimensionales Array:
+				- Element des Arrays ein Array (Referenztypen)
+	- Assoziatives Array
+		- Zeichenketten als Indizes
+		- z.B. Hashtabelle

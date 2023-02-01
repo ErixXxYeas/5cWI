@@ -1,4 +1,4 @@
-package at.ran.test.Snoworld;
+package at.ran.Main.Snoworld;
 
 import org.newdawn.slick.*;
 

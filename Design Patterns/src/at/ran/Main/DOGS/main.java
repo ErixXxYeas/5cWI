@@ -1,4 +1,4 @@
-package at.ran.test.DOGS;
+package at.ran.Main.DOGS;
 
 public class main {
     public static void main(String[] args) {

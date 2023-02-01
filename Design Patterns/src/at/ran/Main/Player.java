@@ -1,8 +1,7 @@
-package at.ran.test;
+package at.ran.Main;
 
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
-import org.newdawn.slick.Input;
 
 public class Player implements Actor{
 private float x,y,speed;

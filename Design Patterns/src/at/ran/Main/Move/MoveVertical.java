@@ -1,4 +1,4 @@
-package at.ran.test.Move;
+package at.ran.Main.Move;
 
 public class MoveVertical implements MoveStrategy {
     private float x,y, speed;

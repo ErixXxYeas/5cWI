@@ -1,4 +1,4 @@
-package at.ran.test;
+package at.ran.Main;
 
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;

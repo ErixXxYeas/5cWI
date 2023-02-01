@@ -1,4 +1,4 @@
-package at.ran.test.DOGS;
+package at.ran.Main.DOGS;
 
 public abstract class Dogs implements Dog  {
 

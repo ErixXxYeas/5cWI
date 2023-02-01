@@ -1,8 +1,8 @@
-package at.ran.test;
+package at.ran.Main;
 
-import at.ran.test.Move.MoveHorizontal;
-import at.ran.test.Move.MoveStrategy;
-import at.ran.test.Move.MoveVertical;
+import at.ran.Main.Move.MoveHorizontal;
+import at.ran.Main.Move.MoveStrategy;
+import at.ran.Main.Move.MoveVertical;
 import org.newdawn.slick.*;
 
 import java.util.ArrayList;

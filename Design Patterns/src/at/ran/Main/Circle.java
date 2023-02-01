@@ -1,6 +1,6 @@
-package at.ran.test;
+package at.ran.Main;
 
-import at.ran.test.Move.MoveStrategy;
+import at.ran.Main.Move.MoveStrategy;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
 

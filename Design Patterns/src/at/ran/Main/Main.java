@@ -18,7 +18,7 @@ public class Main extends BasicGame {
     @Override
     public void init(GameContainer gameContainer) throws SlickException {
         MoveStrategy right = new MoveHorizontal(200, 500, 0.09f);
-        MoveStrategy right2 = new MoveHorizontal(200, 500, 0.3f);
+        MoveStrategy right2 = new MoveHorizontal(200, 500, 0.4f);
         MoveStrategy left = new MoveHorizontal(300, 600, -0.09f);
         MoveStrategy down = new MoveVertical(400,700, 0.09f);
         MoveStrategy up = new MoveVertical(500,100, -0.09f);
